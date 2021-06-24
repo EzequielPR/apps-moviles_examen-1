@@ -1,0 +1,7 @@
+{
+  "name": "apps-moviles_examen-1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
